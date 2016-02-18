@@ -2,15 +2,22 @@
     <channel>
         <title><![CDATA[Theatre]]></title>
         <description><![CDATA[Theatre]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/theatre/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 12:15:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 12:22:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/theatre/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Review of Brendan Cole - A Night To Remember]]></title>
+            <description><![CDATA[<article><h1>Review of Brendan Cole - A Night To Remember</h1><p>Strictly Come Dancing has one of those Marmite followings.  Love it or hate it, it has attracted TV audiences in their millions and is one of the few programmes to knock X-Factor off it's perch on a Saturday night. I wouldn't class myself as a fan, but I have watched it on occasions for some light entertainment. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/709b51ba-cff0-4d28-9702-2ae8309692e3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/theatre/review-of-brendan-cole-a-night-to-remember/index.html</link>
+            <guid isPermaLink="false">d4d8fb53-4e34-4fc4-b9a5-955c47c572d6</guid>
+            <pubDate>Thu, 18 Feb 2016 12:20:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Review of Private Lives at Richmond Theatre]]></title>
             <description><![CDATA[<article><h1>Review of Private Lives at Richmond Theatre</h1><p>
-I moved to Teddington about 6 years ago and I regard it as home now. It's infamous for a few things, including the recently closed Teddington Studios where most of the TV programmes I grew up with were filmed, and the school opposite is responsible for giving Keira Knightley her interest in drama. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e56ff4458736db87bda29bd09977855b757c12a.jpg"></article>]]></description>
-            <link>undefinedreview-of-private-lives-at-richmond-theatre/index.html</link>
+I moved to Teddington about 6 years ago and I regard it as home now. It's infamous for a few things, including the recently closed Teddington Studios where most of the TV programmes I grew up with were filmed, and the school opposite is responsible for giving Keira Knightley her interest in drama. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ae95fad81265b7f2788a82211b556e7825106e31.jpg"></article>]]></description>
+            <link>https://thegrid.ai/theatre/review-of-private-lives-at-richmond-theatre/index.html</link>
             <guid isPermaLink="false">703f83e0-85da-4d29-aeed-ba88a8b7de86</guid>
             <pubDate>Thu, 18 Feb 2016 12:15:11 GMT</pubDate>
         </item>
