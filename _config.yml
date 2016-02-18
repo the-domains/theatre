@@ -1,9 +1,7 @@
-favicon: null
 name: Theatre
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.91257
+typography_spectrum: 1
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.3847130902577192
-  brandStrength: 0.07462268485687673
-  rhythmicContrast: 0.8668393020052463
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+  brandStrength: 0.1875
   lightness: 0.5733896405436099
-typography_spectrum: 1
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.8539024088531733
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  saturation: 0.5
+  rhythmicContrast: 0.8668393020052463
+purpose: []
